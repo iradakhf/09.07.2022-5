@@ -1,0 +1,15 @@
+C:\Users\irade\source\repos\ConsoleApp13\bin\Debug\net6.0\ConsoleApp13.exe
+C:\Users\irade\source\repos\ConsoleApp13\bin\Debug\net6.0\ConsoleApp13.deps.json
+C:\Users\irade\source\repos\ConsoleApp13\bin\Debug\net6.0\ConsoleApp13.runtimeconfig.json
+C:\Users\irade\source\repos\ConsoleApp13\bin\Debug\net6.0\ConsoleApp13.dll
+C:\Users\irade\source\repos\ConsoleApp13\bin\Debug\net6.0\ConsoleApp13.pdb
+C:\Users\irade\source\repos\ConsoleApp13\obj\Debug\net6.0\ConsoleApp13.csproj.AssemblyReference.cache
+C:\Users\irade\source\repos\ConsoleApp13\obj\Debug\net6.0\ConsoleApp13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irade\source\repos\ConsoleApp13\obj\Debug\net6.0\ConsoleApp13.AssemblyInfoInputs.cache
+C:\Users\irade\source\repos\ConsoleApp13\obj\Debug\net6.0\ConsoleApp13.AssemblyInfo.cs
+C:\Users\irade\source\repos\ConsoleApp13\obj\Debug\net6.0\ConsoleApp13.csproj.CoreCompileInputs.cache
+C:\Users\irade\source\repos\ConsoleApp13\obj\Debug\net6.0\ConsoleApp13.dll
+C:\Users\irade\source\repos\ConsoleApp13\obj\Debug\net6.0\refint\ConsoleApp13.dll
+C:\Users\irade\source\repos\ConsoleApp13\obj\Debug\net6.0\ConsoleApp13.pdb
+C:\Users\irade\source\repos\ConsoleApp13\obj\Debug\net6.0\ConsoleApp13.genruntimeconfig.cache
+C:\Users\irade\source\repos\ConsoleApp13\obj\Debug\net6.0\ref\ConsoleApp13.dll
